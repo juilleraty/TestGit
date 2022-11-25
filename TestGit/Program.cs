@@ -7,6 +7,10 @@ namespace TestGit
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Travailler avec git c'est pas si simple au debut");
+            Console.WriteLine("a vous de jouer");
+
+
         }
     }
 }
